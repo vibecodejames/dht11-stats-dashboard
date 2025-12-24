@@ -1,0 +1,7 @@
+# Sensor reading
+adafruit-circuitpython-dht>=3.7.0
+RPi.GPIO>=0.7.0
+
+# Visualization
+matplotlib>=3.5.0
+numpy>=1.21.0
